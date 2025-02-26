@@ -1,5 +1,5 @@
 # ¡Hola, soy David! 
-Soy un/a **Desarrolador de Software**, apasionado por **Inteligencia artificial**, sobre todo **Redes Neuronales** y su aplicaión. Me encanta construir soluciones innovadoras y colaborar en proyectos desafiantes.
+Soy un **Desarrolador de Software**, apasionado por **Inteligencia artificial**, sobre todo **Redes Neuronales** y sus aplicaiónes en el mundo laboral. Me encanta construir soluciones innovadoras y colaborar en proyectos desafiantes.
 
 ¡Bienvenido/a a mi perfil de GitHub! 👋
 ---
