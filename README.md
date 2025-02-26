@@ -1,22 +1,6 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy David! Soy un/a **Desarrolador de Software**, apasionado por **Inteligencia artificial**, sobre todo **Redes Neuronales** y su aplicaión. Me encanta construir soluciones innovadoras y colaborar en proyectos desafiantes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuperfil)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/tuusuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://tusitio.com)
-
-¡Bienvenido/a a mi perfil de GitHub! Soy un/a **[tu profesión o rol]**, apasionado/a por **[tus intereses]**. Me encanta construir soluciones innovadoras y colaborar en proyectos desafiantes.
-
----
-
-## 🚀 Sobre Mí
-
-- 🔭 Actualmente trabajo en **[proyecto actual o empresa]**.
-- 🌱 Estoy aprendiendo **[tecnologías o habilidades que estás aprendiendo]**.
-- 👯 Busco colaborar en proyectos de **[áreas de interés]**.
-- 💬 Pregúntame sobre **[temas en los que eres experto/a]**.
-- 📫 Cómo contactarme: **[tu correo o enlace a LinkedIn]**.
-- ⚡ Dato curioso: **[algo interesante o divertido sobre ti]**.
-
+¡Bienvenido/a a mi perfil de GitHub! 👋
 ---
 
 ## 🛠️ Habilidades Técnicas
@@ -38,48 +22,17 @@
 
 ---
 
-## 🌟 Proyectos Destacados
-
-### [Nombre del Proyecto](enlace al proyecto)
-![Badge](https://img.shields.io/badge/Status-En%20desarrollo-blue)
-- Breve descripción del proyecto.
-- Tecnologías utilizadas: ![Tecnología](https://img.shields.io/badge/Tecnología-Color?style=flat&logo=logo)
-
-### [Nombre del Proyecto](enlace al proyecto)
-![Badge](https://img.shields.io/badge/Status-Completado-green)
-- Breve descripción del proyecto.
-- Tecnologías utilizadas: ![Tecnología](https://img.shields.io/badge/Tecnología-Color?style=flat&logo=logo)
-
----
-
 ## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Conéctate Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuperfil)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/tuusuario)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tucorreo@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-soriano-enguidanos)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:davsoreng@gmail.com)
 
 ---
 
-⭐️ Hecho con ❤️ por [Tu Nombre]
-
-<!--
-**sorianondulado/sorianondulado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ Hecho con ❤️ por mi mismo 🤣
