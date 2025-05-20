@@ -30,14 +30,17 @@ Actualmente estoy cursando un Máster de Formación Profesional en **Inteligenci
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit_Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NiFi](https://img.shields.io/badge/Apache_NiFi-003366?style=for-the-badge&logo=apache&logoColor=white)
-![Knime](https://img.shields.io/badge/apachenifi-728E9B?style=for-the-badge&logo=apachenifi&logoColor=black)
+![Knime](https://img.shields.io/badge/Knime-FDD800?style=for-the-badge&logo=knime&logoColor=black)
 
 ### 📱 Desarrollo Android
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Material](https://img.shields.io/badge/MaterialDesign-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ### 🛠️ Otras herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
