@@ -1,29 +1,72 @@
-# ¡Hola, soy David! 
-Soy un **Desarrolador de Software**, apasionado por **Inteligencia artificial**, sobre todo **Redes Neuronales** y sus aplicaiónes en el mundo laboral. Me encanta construir soluciones innovadoras y colaborar en proyectos desafiantes.
+# 👋 ¡Hola! Soy David Soriano
+
+Soy un profesional resolutivo y apasionado por la informática, especializado en **Big Data** e **Inteligencia Artificial**, con una sólida base en desarrollo de software. Mi enfoque actual está orientado a la **ingeniería de datos**, la **analítica avanzada** y el uso de tecnologías innovadoras para transformar grandes volúmenes de datos en soluciones eficientes y escalables.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🎯 Objetivo Profesional
 
-### Lenguajes de Programación
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+Actualmente estoy cursando un Máster de Formación Profesional en **Inteligencia Artificial y Big Data**, donde profundizo en tecnologías como **Apache Spark**, **Kafka**, **Keras**, **TensorFlow**, **PyTorch** y más. Mi objetivo es seguir desarrollándome como profesional en el ámbito del Big Data, combinando mis conocimientos en desarrollo móvil con habilidades punteras en ciencia y procesamiento de datos.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💾 Lenguajes y Tecnologías
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=black)
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=mysql&logoColor=white)
-![Knime](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=knime&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Herramientas y Tecnologías
+### 📊 Big Data & IA
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NiFi](https://img.shields.io/badge/Apache_NiFi-003366?style=for-the-badge&logo=apache&logoColor=white)
+![Knime](https://img.shields.io/badge/apachenifi-728E9B?style=for-the-badge&logo=apachenifi&logoColor=black)
+
+### 📱 Desarrollo Android
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Material](https://img.shields.io/badge/MaterialDesign-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+
+### 🛠️ Otras herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
 
 ---
 
-## 📫 Contacta Conmigo
+## 💼 Experiencia Destacada
+
+### JVSystem – Android Developer | Arquitecto de Software  
+📅 Mar 2022 – Sep 2023
+
+- Desarrollo de apps Android con **Kotlin**, **Jetpack Compose** y **Clean Architecture**.
+- Optimización de rendimiento y calidad de código (SOLID, pruebas unitarias, UI Testing).
+- Trabajo en proyectos del sector textil y reciclaje aplicando flujos modernos, CI/CD y colaboración ágil (Scrum).
+
+---
+
+## 📜 Certificaciones Relevantes
+
+- 🏅 **Agile Project Management** – Google (2024)  
+- 🧠 **Introduction to IoT** – Cisco (2024)  
+- 🔧 **CCT Routing & Switching** – Cisco (2024)
+
+---
+
+## 📫 ¿Hablamos?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-soriano-enguidanos)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:davsoreng@gmail.com)
