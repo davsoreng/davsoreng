@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy David Soriano
 
-Me considero un profesional en **Big Data** e **Inteligencia Artificial**, con una sólida base en desarrollo de software. Mi enfoque actual está centra en las tecnologías de **machine learning**, **redes convoluciones** y **redes recurrentes** ademas de la **ingeniería de datos**, la **analítica avanzada** y el uso de tecnologías innovadoras para transformar grandes volúmenes de datos en soluciones eficientes y escalables.
+Me considero un profesional en **Big Data** e **Inteligencia Artificial**, con una sólida base en desarrollo de software. Mi enfoque actual está centrdo en las tecnologías de **machine learning**, **redes convoluciones** y **redes recurrentes** ademas de la **ingeniería de datos**, la **analítica avanzada** y el uso de tecnologías innovadoras para transformar grandes volúmenes de datos en soluciones eficientes y escalables.
 
 ---
 
