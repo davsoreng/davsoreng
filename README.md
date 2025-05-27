@@ -1,12 +1,12 @@
 # 👋 ¡Hola! Soy David Soriano
 
-Soy un profesional resolutivo y apasionado por la informática, especializado en **Big Data** e **Inteligencia Artificial**, con una sólida base en desarrollo de software. Mi enfoque actual está orientado a la **ingeniería de datos**, la **analítica avanzada** y el uso de tecnologías innovadoras para transformar grandes volúmenes de datos en soluciones eficientes y escalables.
+Me considero un profesional en **Big Data** e **Inteligencia Artificial**, con una sólida base en desarrollo de software. Mi enfoque actual está centra en las tecnologías de **machine learning**, **redes convoluciones** y **redes recurrentes** ademas de la **ingeniería de datos**, la **analítica avanzada** y el uso de tecnologías innovadoras para transformar grandes volúmenes de datos en soluciones eficientes y escalables.
 
 ---
 
 ## 🎯 Objetivo Profesional
 
-Actualmente estoy cursando un Máster de Formación Profesional en **Inteligencia Artificial y Big Data**, donde profundizo en tecnologías como **Apache Spark**, **Kafka**, **Keras**, **TensorFlow**, **PyTorch** y más. Mi objetivo es seguir desarrollándome como profesional en el ámbito del Big Data, combinando mis conocimientos en desarrollo móvil con habilidades punteras en ciencia y procesamiento de datos.
+Mi objetivo es seguir desarrollándome como profesional en los campos de **Inteligencia Artificial** y las tecnologías **Big Data**, combinando mis conocimientos en desarrollo móvil con habilidades punteras en ciencia y procesamiento de datos.
 
 ---
 
