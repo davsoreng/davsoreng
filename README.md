@@ -1,4 +1,3 @@
-# David Soriano Enguídanos  
 **Desarrollador Python · IA & Big Data**  
 
 📍 Torrent, Valencia, España  
